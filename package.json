@@ -1,0 +1,12 @@
+{
+  "name": "$name",
+  "description": "$description$",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "*"
+  }
+}
